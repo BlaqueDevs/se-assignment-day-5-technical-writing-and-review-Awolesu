@@ -5,7 +5,7 @@
 
 Ans:
 Understanding your audience’s expertise level is crucial when presenting technical information, as it directly influences how you should structure and deliver your content. Here’s how you can tailor your approach for different audiences:
-For Tech Experts:
+For Tech Experts:         
 1. Use Technical Terminology:
 a. You can use industry-specific jargon and complex terminology since your audience will be familiar with these concepts.
 
